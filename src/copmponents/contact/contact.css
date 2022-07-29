@@ -1,0 +1,25 @@
+.contactCard{
+    color: blue;
+    border: 1px solid blue;
+    background-color: lightcyan;
+    margin: 10px;
+    padding: 10px;
+    width: 300px;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+.male{
+    color: blue;
+    border: 1px solid blue;
+    background-color: lightcyan;
+}
+
+.female{
+    color: magenta;
+    border: 1px solid magenta;
+    background-color: rgb(249, 248, 249);
+}
+.checked{
+    text-decoration: line-through;
+}
